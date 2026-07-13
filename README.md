@@ -1,3 +1,4 @@
+## Disclosure: This dataset is synthetic. The relationships it contains were introduced during generation, so the findings below demonstrate analytical method rather than discovered insight.
 # Executive KPI Dashboard — Branch Performance
 
 An interactive executive-level dashboard consolidating 12 disparate branch performance reports into a single live view. Built to demonstrate how raw banking data can be transformed into the kind of visualization that drives weekly leadership meetings.
@@ -20,7 +21,7 @@ After 10 years in banking, I've sat through countless leadership reviews where e
 *(Set up via GitHub Pages — see "How to Deploy" below)*
 
 ## Preview
-
+## Disclosure: Figures are illustrative.
 ![Dashboard Preview](dashboard-preview.png)
 
 ## Features
