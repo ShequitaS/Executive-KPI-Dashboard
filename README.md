@@ -100,6 +100,6 @@ A few choices worth calling out:
 
 ## Author
 
-**Shequita.S** — M.S. Data Science candidate | 10 years in banking & finance
+**Shequita Stevenson** — M.S. Data Science candidate | 10 years in banking & finance
 
-[Portfolio](https://yoursite.com) · [LinkedIn](www.linkedin.com/in/shequita-s-42aab7349) · [Email](stevenson.shequita@gmail.com)
+
